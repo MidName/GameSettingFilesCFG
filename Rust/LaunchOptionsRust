@@ -1,0 +1,1 @@
+ -high -gc.buffer 2048 -maxMem=25000 -malloc=system -force-feature-level-11-0 -cpuCount=6 -exThreads=12 -force-d3d11-no-singlethreaded -headlerp 100  -gc.incremental_milliseconds 1 -effects.maxgibs -1

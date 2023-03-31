@@ -1,0 +1,10 @@
+Go to 
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+
+If there is an autoexec.cfg file already, edit it, otherwise make a new file with that exact name
+
+then paste the following, save
+
+alias "+jumpthrow" "+jump;-attack;-attack2"
+alias "-jumpthrow" "-jump"
+bind "N" "+jumpthrow"
